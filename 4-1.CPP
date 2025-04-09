@@ -81,6 +81,6 @@ int main()
         dynamicApproach();
     else
         staticApproach();
-
+        cout << "This program is made by 24CE030 - DHARM." << endl;
         return 0;
 }
