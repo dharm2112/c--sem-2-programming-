@@ -1,3 +1,9 @@
+/*
+5.2 Complex Number Operations
+Uses real, imag as data members; overloads +, -, <<, >> operators.
+OOP Concepts: Operator Overloading, Encapsulation.
+Enables arithmetic and I/O for complex numbers with ease.
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
