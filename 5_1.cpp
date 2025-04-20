@@ -1,3 +1,9 @@
+/*
+5.1 Function Overloading Calculator
+Uses overloaded add functions for int/float inputs, showcasing function overloading.
+OOP Concepts: Polymorphism, Encapsulation.
+Handles diverse additions with consistent logic and result display.
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
