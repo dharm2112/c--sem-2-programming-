@@ -1,3 +1,9 @@
+/*
+4.5 Advanced Grading System
+Uses protected marks with abstraction, inheritance, and polymorphism for flexible grading.
+Abstract class defines grading; derived classes compute grades for UG and PG students.
+Manages student records with customized evaluation logic.
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
